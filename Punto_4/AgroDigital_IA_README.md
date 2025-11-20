@@ -42,11 +42,11 @@ Computing**, **IA en contenedores**, **gemelo digital agrícola** y
 
 #### **1. Sensores IoT**
 
--   Humedad de suelo\
--   Temperatura\
--   Radiación solar\
--   pH\
--   Calidad del aire\
+-   Humedad de suelo
+-   Temperatura
+-   Radiación solar
+-   pH
+-   Calidad del aire
 -   Cámaras RGB/NIR
 
 #### **2. Nodo Edge (Raspberry Pi / Jetson Nano)**
