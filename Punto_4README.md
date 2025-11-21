@@ -42,18 +42,18 @@ Computing**, **IA en contenedores**, **gemelo digital agrícola** y
 
 #### **1. Sensores IoT**
 
--   Humedad de suelo\
--   Temperatura\
--   Radiación solar\
--   pH\
--   Calidad del aire\
+-   Humedad de suelo
+-   Temperatura
+-   Radiación solar
+-   pH
+-   Calidad del aire
 -   Cámaras RGB/NIR
 
 #### **2. Nodo Edge (Raspberry Pi / Jetson Nano)**
 
 -   Corre modelos IA en Docker:
-    -   detección de estrés hídrico\
-    -   anomalías en crecimiento\
+    -   detección de estrés hídrico
+    -   anomalías en crecimiento
     -   predicción de plagas
 
 #### **3. Plataforma en la Nube / Local**
@@ -65,8 +65,8 @@ Computing**, **IA en contenedores**, **gemelo digital agrícola** y
 
 #### **4. Gemelo Digital (Digital Twin)**
 
-Simulación virtual del cultivo para: - prever comportamientos futuros\
-- probar actuadores sin riesgos\
+Simulación virtual del cultivo para: - prever comportamientos futuros
+- probar actuadores sin riesgos
 - simular riegos, fertilización o clima
 
 #### **5. Actuadores Inteligentes**
@@ -98,7 +98,7 @@ Simulación virtual del cultivo para: - prever comportamientos futuros\
 
 ------------------------------------------------------------------------
 
-## 6. Diagrama de Flujo (Texto)
+## 6. Diagrama de Flujo 
 
     Inicio
       ↓
@@ -120,37 +120,37 @@ Simulación virtual del cultivo para: - prever comportamientos futuros\
 
 ------------------------------------------------------------------------
 
-## 7. Tecnologías recomendadas (Digitales III -- Experto)
+## 7. Tecnologías recomendadas 
 
 ### **IoT y Datos**
 
--   MQTT / LoRaWAN\
--   Node-RED\
+-   MQTT / LoRaWAN
+-   Node-RED
 -   PostgreSQL
 
 ### **IA y Edge Computing**
 
--   TensorFlow Lite\
--   Docker + Docker Compose\
--   OpenCV\
+-   TensorFlow Lite
+-   Docker + Docker Compose
+-   OpenCV
 -   Pytorch Edge
 
 ### **Robótica y Simulación**
 
--   PyBullet\
--   ROS2\
--   Gazebo\
+-   PyBullet
+-   ROS2
+-   Gazebo
 -   Webots
 
 ### **Frontend y Dashboards**
 
--   Streamlit\
+-   Streamlit
 -   FastAPI
 
 ### **Gemelos Digitales**
 
--   Unity + ROS2 Bridge\
--   Microsoft Bonsai\
+-   Unity + ROS2 Bridge
+-   Microsoft Bonsai
 -   Digital Twin Definition Language (DTDL)
 
 ------------------------------------------------------------------------
